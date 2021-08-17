@@ -1,0 +1,101 @@
+01040|Campestre|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001|09|010|0012|Urbano|01|
+01650|El Ruedo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401|09|010|2844|Urbano|01|
+01650|Santa Lucía Chantepec|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401|09|010|2848|Urbano|01|
+01700|La Joyita del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001|09|010|0282|Urbano|01|
+01700|Ocotillos del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001|09|010|0283|Urbano|01|
+02020|Santo Tomás|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011|09|002|0361|Urbano|02|
+02040|Del Maestro|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011|09|002|0362|Urbano|02|
+02050|Santa María Malinalco|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011|28|002|0365|Urbano|02|
+02060|Sindicato Mexicano de Electricistas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011|09|002|0368|Urbano|02|
+02060|Un Hogar Para Cada Trabajador|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011|09|002|0369|Urbano|02|
+03000|Piedad Narvarte|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001|09|014|0489|Urbano|03|
+03010|Atenor Salas|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001|09|014|0491|Urbano|03|
+03020|Narvarte Poniente|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001|09|014|0493|Urbano|03|
+03023|Narvarte Oriente|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001|09|014|2623|Urbano|03|
+03100|Del Valle Centro|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001|09|014|0496|Urbano|03|
+04000|Villa Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501|09|003|0563|Urbano|04|
+04010|Santa Catarina|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501|02|003|0566|Urbano|04|
+04020|La Concepción|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501|02|003|0567|Urbano|04|
+04030|San Lucas|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501|02|003|0569|Urbano|04|
+04040|Parque San Andrés|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501|09|003|0570|Urbano|04|
+05000|Cuajimalpa|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501|09|004|0732|Urbano|05|
+05010|Zentlapatl|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501|09|004|0735|Urbano|05|
+05020|Loma del Padre|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501|09|004|0736|Urbano|05|
+05030|San Pedro|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501|09|004|0737|Urbano|05|
+05030|La Manzanita|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501|09|004|2867|Urbano|05|
+06000|Centro (Área 1)|Colonia|Cuauhtémoc|Ciudad de México|Ciudad de México|06002|09|06002|09|015|0838|Urbano|06|
+06010|Centro (Área 2)|Colonia|Cuauhtémoc|Ciudad de México|Ciudad de México|06002|09|06002|09|015|0847|Urbano|06|
+06020|Centro (Área 3)|Colonia|Cuauhtémoc|Ciudad de México|Ciudad de México|06002|09|06002|09|015|0850|Urbano|06|
+06030|Tabacalera|Colonia|Cuauhtémoc|Ciudad de México|Ciudad de México|06002|09|06002|09|015|0853|Urbano|06|
+06040|Centro (Área 4)|Colonia|Cuauhtémoc|Ciudad de México|Ciudad de México|06002|09|06002|09|015|0860|Urbano|06|
+07000|Aragón la Villa|Colonia|Gustavo A. Madero|Ciudad de México|Ciudad de México|07001|09|07001|09|005|0991|Urbano|07|
+07010|Rosas del Tepeyac|Colonia|Gustavo A. Madero|Ciudad de México|Ciudad de México|07001|09|07001|09|005|0994|Urbano|07|
+07010|Santa Isabel Tola|Colonia|Gustavo A. Madero|Ciudad de México|Ciudad de México|07001|09|07001|09|005|0995|Urbano|07|
+07010|Tepetates|Colonia|Gustavo A. Madero|Ciudad de México|Ciudad de México|07001|09|07001|09|005|0996|Urbano|07|
+07020|Tepeyac Insurgentes|Colonia|Gustavo A. Madero|Ciudad de México|Ciudad de México|07001|09|07001|09|005|0997|Urbano|07|
+08000|Gabriel Ramos Millán Sección Bramadero|Colonia|Iztacalco|Ciudad de México|Ciudad de México|08231|09|08231|09|006|1233|Urbano|08|
+08010|Ex-Ejido de La Magdalena Mixiuhca|Colonia|Iztacalco|Ciudad de México|Ciudad de México|08231|09|08231|09|006|1237|Urbano|08|
+08020|Ampliación Gabriel Ramos Millán|Colonia|Iztacalco|Ciudad de México|Ciudad de México|08231|09|08231|09|006|1238|Urbano|08|
+08030|Gabriel Ramos Millán Sección Cuchilla|Colonia|Iztacalco|Ciudad de México|Ciudad de México|08231|09|08231|09|006|1241|Urbano|08|
+08040|Carlos Zapata Vela|Colonia|Iztacalco|Ciudad de México|Ciudad de México|08231|09|08231|09|006|1242|Urbano|08|
+09000|La Asunción|Barrio|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|02|007|1299|Urbano|09|
+09000|San Ignacio|Barrio|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|02|007|1300|Urbano|09|
+09000|San José|Barrio|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|02|007|1301|Urbano|09|
+09000|San Lucas|Barrio|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|02|007|1302|Urbano|09|
+09000|San Pablo|Barrio|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|02|007|1303|Urbano|09|
+10000|Lomas Quebradas|Colonia|La Magdalena Contreras|Ciudad de México|Ciudad de México|10021|09|10021|09|008|1672|Urbano|10|
+10010|La Malinche|Colonia|La Magdalena Contreras|Ciudad de México|Ciudad de México|10021|09|10021|09|008|1673|Urbano|10|
+10010|San Bartolo Ameyalco|Colonia|La Magdalena Contreras|Ciudad de México|Ciudad de México|10021|09|10021|09|008|1674|Urbano|10|
+10020|Cuauhtémoc|Colonia|La Magdalena Contreras|Ciudad de México|Ciudad de México|10021|09|10021|09|008|1675|Urbano|10|
+10130|El Maestro|Colonia|La Magdalena Contreras|Ciudad de México|Ciudad de México|10101|09|10101|09|008|1681|Urbano|10|
+16030|La Noria|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2402|Urbano|16|
+16030|Potrero de San Bernardino|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2403|Urbano|16|
+16030|Ampliación La Noria|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2919|Urbano|16|
+16034|18|Barrio|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|02|013|2405|Urbano|16|
+16035|San Lorenzo La Cebada|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2407|Urbano|16|
+09479|Ampliación Sinatel|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|09|007|1432|Urbano|09|
+09480|El Prado|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09081|09|09081|09|007|1433|Urbano|09|
+09500|Santa María Aztahuacán|Pueblo|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|28|007|1435|Urbano|09|
+09500|Santa María Aztahuacán Ampliación|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|09|007|2565|Urbano|09|
+09510|Santa Martha Acatitla|Pueblo|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|28|007|1436|Urbano|09|
+09520|El Edén|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|09|007|1439|Urbano|09|
+09520|San Sebastián Tecoloxtitla|Pueblo|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|28|007|1440|Urbano|09|
+09530|Santa Martha Acatitla Sur|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|09|007|1441|Urbano|09|
+09550|Monte Alban|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|09|007|1443|Urbano|09|
+09560|Paraje Zacatepec|Colonia|Iztapalapa|Ciudad de México|Ciudad de México|09511|09|09511|09|007|1444|Urbano|09|
+16799|Las Mesitas|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2509|Urbano|16|
+16800|San Mateo Xalpa|Pueblo|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|28|013|2510|Urbano|16|
+16810|San Andrés Ahuayucan|Pueblo|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|28|013|2515|Urbano|16|
+16810|Santa Inés|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2516|Urbano|16|
+16810|Rosario Tlali|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2607|Urbano|16|
+16813|El Calvario|Barrio|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|02|013|2914|Urbano|16|
+16840|Santa Cruz Chavarrieta|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2519|Urbano|16|
+16850|Chapultepec|Barrio|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|02|013|2520|Urbano|16|
+16860|Santa Cruz de Guadalupe|Colonia|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|09|013|2521|Urbano|16|
+16880|Santa Cecilia Tepetlapa|Pueblo|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|28|013|2527|Urbano|16|
+16900|San Francisco Tlalnepantla|Pueblo|Xochimilco|Ciudad de México|Ciudad de México|16001|09|16001|28|013|2530|Urbano|16|
+14390|Rinconada Las Hadas|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14391|09|14391|09|012|2174|Urbano|14|
+14390|Narciso Mendoza|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14391|09|14391|09|012|2175|Urbano|14|
+14390|Residencial Villa Coapa|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14391|09|14391|09|012|2176|Urbano|14|
+14390|Villa Coapa|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14391|09|14391|09|012|2878|Urbano|14|
+14400|San Andrés Totoltepec|Pueblo|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|28|012|2179|Urbano|14|
+14406|Divisadero|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|09|012|2182|Urbano|14|
+14408|Nuevo Renacimiento de Axalco|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|09|012|2183|Urbano|14|
+14409|Tecorral|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|09|012|2184|Urbano|14|
+14410|Fuentes Brotantes|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|09|012|2186|Urbano|14|
+14420|Cumbres de Tepetongo|Colonia|Tlalpan|Ciudad de México|Ciudad de México|14091|09|14091|09|012|2188|Urbano|14|
+13100|La Guadalupe|Barrio|Tláhuac|Ciudad de México|Ciudad de México|13011|09|13011|02|011|1937|Urbano|13|
+13120|Ampliación Santa Catarina|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13011|09|13011|09|011|1942|Urbano|13|
+13120|Santiago|Barrio|Tláhuac|Ciudad de México|Ciudad de México|13011|09|13011|02|011|1943|Urbano|13|
+13150|La Concepción|Barrio|Tláhuac|Ciudad de México|Ciudad de México|13011|09|13011|02|011|1945|Urbano|13|
+13180|San Miguel|Barrio|Tláhuac|Ciudad de México|Ciudad de México|13011|09|13011|02|011|1946|Urbano|13|
+13200|Miguel Hidalgo|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13221|09|13221|09|011|1947|Urbano|13|
+13210|Los Olivos|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13221|09|13221|09|011|1949|Urbano|13|
+13219|Las Arboledas|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13221|09|13221|09|011|1950|Urbano|13|
+13219|Ampliación Los Olivos|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13221|09|13221|09|011|1951|Urbano|13|
+13220|La Nopalera|Colonia|Tláhuac|Ciudad de México|Ciudad de México|13221|09|13221|09|011|1952|Urbano|13|
+10840|Las Calles|Barrio|La Magdalena Contreras|Ciudad de México|Ciudad de México|10901|09|10901|02|008|1733|Urbano|10|
+10840|Plazuela del Pedregal|Barrio|La Magdalena Contreras|Ciudad de México|Ciudad de México|10901|09|10901|02|008|1734|Urbano|10|
+11000|Lomas de Chapultepec VIII Sección|Colonia|Miguel Hidalgo|Ciudad de México|Ciudad de México|11801|09|11801|09|016|2774|Urbano|11|
+11000|Lomas de Chapultepec II Sección|Colonia|Miguel Hidalgo|Ciudad de México|Ciudad de México|11801|09|11801|09|016|2775|Urbano|11|
+11000|Lomas de Chapultepec III Sección|Colonia|Miguel Hidalgo|Ciudad de México|Ciudad de México|11801|09|11801|09|016|2776|Urbano|11|
